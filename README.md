@@ -6,7 +6,7 @@
 
 ##### JS Code Assigment
 
-##### My site is published at:<https://4886talga.github.io/BeerDatabase/>
+##### My site is published at:<https://4886talga.github.io/members-frontend/>
 
 ##### GitHub Repo: https://github.com/4886Talga/members-frontend
 
