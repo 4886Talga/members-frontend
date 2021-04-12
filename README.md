@@ -7,6 +7,7 @@
 ##### JS Code Assigment
 
 ##### My site is published at:<https://4886talga.github.io/members-frontend/>
+##### also on https://members-frontend.herokuapp.com/
 
 ##### GitHub Repo: https://github.com/4886Talga/members-frontend
 
