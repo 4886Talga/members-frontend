@@ -9,13 +9,14 @@ const Members = () => {
 		
 		async function fetchData() {
 			
-			const response = await membersapi.get('/members',
+			//const response = await membersapi.get('/members',
+			const response = await membersapi.get('/employees',
 		{
 			method: "GET",
 			mode: "no-cors",
 			withCredentials: false,
 			});
-		
+			
 		setMembers(response.data);
 		
 		}
